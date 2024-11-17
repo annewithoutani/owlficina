@@ -1,22 +1,13 @@
----
-title: Relatório Owlficina
-
----
-
-```Este é o template básico do relatório do curso. Fique à vontade para adicionar mais tópicos, mas preencha todos os tópicos que estão aqui! Este documento está em markdown, mas fique à vontade para criar um documento de texto, desde que contenha os mesmos tópicos. Sugerimos que subam o código e o relatório (como README.md) no github ou, caso não seja possível, código e github como uma pasta zipada no final do curso.```
-
-
 <p align="center">
-  <img src="https://media.elektor.com/media/catalog/product/cache/9cc822bfc6a57f9729d464b8b5e0e0df/j/o/joy-it-nodemcu-esp32-development-board_front.png" width="300" /><br/>
-Nome do projeto <br/>
+  <img src="https://i.imgur.com/CNzb2O9.png" width="300" /><br/>
+Genio só que melhor e com ritmo (se funcionasse) <br/>
 </p>
 
 <br/>
 
 ## :pushpin: Descrição
 
-O que é o seu projeto? Qual o objetivo do sistema?
-Não precisa colocar muitas informações técnicas aqui, só deixe sua ideia clara :)
+A ideia do projeto consiste em criar um jogo semelhante ao "Genius", que se baseia na memorização e repetição de uma determinada ordem de cores, mas com a adição de uma mecânica ritmica de modo que o jogador precise não somente memorizar a ordem das cores, mas o ritmo em que cada nota toca.
 
 <br/>
 
