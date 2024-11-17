@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/CNzb2O9.png" width="300" /><br/>
 Genio só que melhor e com ritmo (se funcionasse) <br/>
+  por João Gabriel, Marianna Saltarelli e Caio Vinicius
 </p>
 
 <br/>
